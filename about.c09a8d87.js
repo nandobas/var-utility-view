@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkvar_light"]=self["webpackChunkvar_light"]||[]).push([[443],{6374:function(t,e,n){n.r(e),n.d(e,{default:function(){return s}});var r=function(){var t=this;t._self._c;return t._m(0)},l=[function(){var t=this,e=t._self._c;return e("div",{staticClass:"about"},[e("h1",[t._v("Live Video Streaming Controller")]),e("p",[t._v("Live video streaming controller for light demand")])])}],i=n(1001),u={},a=(0,i.Z)(u,r,l,!1,null,null,null),s=a.exports}}]);
-//# sourceMappingURL=about.c09a8d87.js.map
